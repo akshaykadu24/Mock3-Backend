@@ -1,5 +1,11 @@
 {
-  "users":[],
+  "users":[
+    {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
+
+  ],
   "hotels":[
     {
     "category": "Family",
